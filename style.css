@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:black;
+}
+body{
+  color: #00FFCD  
+}
+a{
+  color: lime
+}
+body{
+  font-family:papyrus;
+}
+a:hover{
+  background-color:red;
+}
